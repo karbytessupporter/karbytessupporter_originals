@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place on 19_MARCH_2025 at approximately 4:00AM and pertains to karbytes testing the dication feature of the (Android) ChatGPT mobile app.
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place on 19_MARCH_2025 at approximately 4:00AM Pacific Standard Time and pertains to karbytes testing the dication feature of the (Android) ChatGPT mobile app.
 
 * * *
 
